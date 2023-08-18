@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ARUN-A20
-- i am an electrical engineerring student 
-- 👀 I’m interested in learngin python and java
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on github community 
+- i am an electrical engineering student 
+- 👀 I’m interested in learning Stock market
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to contribute to github community 
 - 📫 arunarivazhagan20@gmail.com 
 
 <!---
